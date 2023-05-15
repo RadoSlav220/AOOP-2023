@@ -1,3 +1,4 @@
+*.pdf
 .metadata
 bin/
 tmp/
@@ -17,7 +18,8 @@ local.properties
 # Compiled class file
 *.class
 
-.idea/*
+*.idea/*
+*/.idea/*
 *.iml
 *.eml
 
