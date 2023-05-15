@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnimalLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnimalLib_jar</output-path>
+    <root id="archive" name="AnimalLib.jar">
+      <element id="module-output" name="AnimalLib" />
+    </root>
+  </artifact>
+</component>
